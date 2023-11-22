@@ -1,0 +1,7 @@
+while a < b do
+ if f == var then
+ b = c2 + 99
+ else
+ b = 37
+ endif
+endwhile
